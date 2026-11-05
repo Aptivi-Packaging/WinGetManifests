@@ -16,7 +16,6 @@ Tags:
 - audio
 - audio-player
 - csharp
-- csharp-lib
 - csharp-library
 - dotnet
 - dotnet-core
@@ -27,7 +26,6 @@ Tags:
 - video
 - video-player
 - native
-- native-libraries
 - native-library
 - song
 ReleaseNotesUrl: https://github.com/Aptivi/MediaBoom/releases/tag/v1.0.0.0

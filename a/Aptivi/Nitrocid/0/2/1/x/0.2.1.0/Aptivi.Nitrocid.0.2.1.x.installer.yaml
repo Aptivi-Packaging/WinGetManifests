@@ -10,9 +10,9 @@ Dependencies:
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/Aptivi/Nitrocid/releases/download/v0.2.1.0/nitrocid-win-x64-installer.exe
-  InstallerSha256: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  InstallerSha256: C9EB0B7850283E48BE539199652DE9A1A37E34A4C5854D88C0AC6425BC42D2DA
 - Architecture: arm64
   InstallerUrl: https://github.com/Aptivi/Nitrocid/releases/download/v0.2.1.0/nitrocid-win-arm64-installer.exe
-  InstallerSha256: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  InstallerSha256: 4EEEDEF0B64BC248039B4E325257154FF5328A0BFFB372945F1EDD30B5F94309
 ManifestType: installer
 ManifestVersion: 1.10.0
